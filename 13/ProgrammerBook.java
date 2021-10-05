@@ -2,7 +2,7 @@ package com.pompi2;
 import pompi.Book;
 import java.util.Objects;
 
-class ProgrammerBook extends Book {
+public class ProgrammerBook extends Book {
     private String language;
     private int level;
 

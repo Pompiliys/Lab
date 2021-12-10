@@ -1,3 +1,0 @@
-переходим в C:\..\..\..\production\nine\
-и запускаем
-java Main
